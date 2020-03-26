@@ -1,4 +1,4 @@
-#### Exclusively to the only Xixilini! Other people back-off pls!  
+#### Exclusively for the only Xixilini! Other people back-off pls!  
  
 ---
  
