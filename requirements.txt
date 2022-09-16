@@ -26,6 +26,6 @@ hydra-core==0.11.3
 scikit-learn==0.21.2
 scipy==1.4.1
 secure-smtplib==0.1.1
-apache-airflow==1.10.9
+apache-airflow==2.3.4
 dask==2.9.1
 jupyterlab
